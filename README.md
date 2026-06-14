@@ -18,7 +18,6 @@ B 站的部分操作（取消关注、删除评论等）需要 CSRF Token 做身
 获取到的 CSRF Token 可直接用于以下脚本：
 
 - [bilibili-unfollow](https://github.com/m4ku1337/bilibili-unfollow) — B 站批量取消关注
-- [bilibili-delete-comments](https://github.com/m4ku1337/bilibili-unfollow) — B 站批量删除评论
 
 ## License
 
