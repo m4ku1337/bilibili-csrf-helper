@@ -1,0 +1,22 @@
+# Node
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 防止误提交带有个人信息的新文件
+*.local.*
+*_private.*
+config*.js
+.env
+.env.*
+*.log
